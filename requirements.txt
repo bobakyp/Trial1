@@ -1,2 +1,4 @@
+sys==3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]
+os==unknown
 pandas==1.2.4
 ipywidgets==7.6.3
