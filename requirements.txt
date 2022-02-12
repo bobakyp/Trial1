@@ -1,0 +1,4 @@
+sys
+os
+pandas==1.2.4
+ipywidgets==7.6.3
